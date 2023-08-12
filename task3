@@ -1,0 +1,10 @@
+package com.example.myapplication4
+
+fun main()
+{
+    val str =listOf("Nouran","Khaled","Mohamed","elbadry")
+    for(i in str)
+        println(i.reversed())
+
+
+}
